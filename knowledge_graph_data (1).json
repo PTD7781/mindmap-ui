@@ -1,0 +1,1238 @@
+[
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Class Definition",
+    "Child": "Inherited Attributes",
+    "Grandchild": "Inlet-flow, Inlet-pressure, Inlet-process-materials-concentration, Inlet-temperature, Name, Outlet-flow, Outlet-pressure, Outlet-process-materials-concentration, Outlet-temperature, Process-materials, Tube-side-inlet-concn, Tube-side-inlet-flow, Tube-side-inlet-pressure, Tube-side-inlet-temp, Tube-side-outlet-concn, Tube-side-outlet-flow, Tube-side-outlet-press, Tube-side-outlet-temp, Tube-side-process-matis, Unit-pressure, Unit-process-materials-concentration, Unit-temperature"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Class Definition",
+    "Child": "Superior Class: bpu-with-one-inlet-one-outlet",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Class Definition",
+    "Child": "Tank Attribute",
+    "Grandchild": "Level"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Cause Method",
+    "Child": "High Level, High Pressure",
+    "Grandchild": "Blockage of outlet pipe (check for solid process materials accumulation), Blockage of outlet pipes (check for solid process materials accumulation), Incomplete separation of impurity, Tank overflow, Tank overflow, leak (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Cause Method",
+    "Child": "Low Level, Low Pressure",
+    "Grandchild": "Leak in tank (check for corrosive process materials), Leak in the tank (check for corrosive process materials), Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Cause Method",
+    "Child": "Zero Level",
+    "Grandchild": "Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards), Tank rupture or breakage (check for corrosive process materials)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Consequence Method",
+    "Child": "High Level, High Pressure",
+    "Grandchild": "Blockage of outlet pipe (check for solid process materials accumulation), Blockage of outlet pipes (check for solid process materials accumulation), Incomplete separation of impurity, Tank overflow, Tank overflow, leak (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Consequence Method",
+    "Child": "High Temperature",
+    "Grandchild": "Check process material properties (fire hazard due to flammable materials), External heat source (fire, lagging loss), Fire hazard (check for flammable materials)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Consequence Method",
+    "Child": "Low Level, Low Pressure",
+    "Grandchild": "Leak in tank (check for corrosive process materials), Leak in the tank (check for corrosive process materials), Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Find-Consequence Method",
+    "Child": "Zero Level",
+    "Grandchild": "Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards), Tank rupture or breakage (check for corrosive process materials)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "HAZOP Model of a Tank",
+    "Child": "Class Definition",
+    "Grandchild": "Heat Exchanger Attributes, Inherited Attributes, Inherited Attributes:, Inherited attributes, Pipe Attribute: Flow, Settling Tank Attributes, Superior Class: bpu-with-one-inlet-one-outlet, Superior Class: tube-hex, Superior class: basic-process-unit, Superior class: bpu-with-one-inlet, Tank Attribute"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "HAZOP Model of a Tank",
+    "Child": "Find-Cause Method",
+    "Grandchild": "High Level, High Pressure, High Pressure, High Temperature, High concentration of impurity in outlet, Low Flow, Low Level, Low Pressure, Low Pressure, Low Temperature, No Flow, Zero Level"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "HAZOP Model of a Tank",
+    "Child": "Find-Consequence Method",
+    "Grandchild": "High Level, High Pressure, High Pressure, High Temperature, Low Flow or No Flow / Low Pressure, Low Level, Low Pressure, Low Temperature, Zero Level"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "HAZOP Model of a Tank",
+    "Child": "Propagation Method",
+    "Grandchild": "(C_i,out) = f(C_i,in), (P = f(T)), (P_out) = f(P_in), (Q_out) = f(Q_in), (T_out) = f(T_in), Ci = f(Ci-in), Ci-out = f(Ci), Ci-out1 = f(Ci), Ci-out2 = f(Ci), Ci.c.out = f(Ci.c.in), Ci.h.out = f(Ci.h.in), Flow: L = f(Qin, - Qout1, - Qout2), L = f(Qin, Qout), P = f(L, T, Pin), P = f(Q, T), Pc.out = f(Pc.in), Ph.out = f(Ph.in), Pout = f(P), Pout1 = f(P), Pout2 = f(P), Pressure: P = f(L, T, Pin), Qc.out = f(Qc.in), Qh.out = f(Qh.in), Qout = f(L, P), Qout1 = f(L, P), Qout2 = f(L, P), T = f(Tin), Tc.out = f(Qh.in, -Qc.in, Th.in, Te.in), Temperature: T = f(Tin), Th.out = f(Qh.in, -Qc.in, Th.in, Te.in), Tout = f(T), Tout1 = f(T), Tout2 = f(T)"
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "High Level, High Pressure",
+    "Child": "Blockage of outlet pipe (check for solid process materials accumulation)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "High Level, High Pressure",
+    "Child": "Tank overflow, leak (check for flammable, toxic process materials for hazards)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "High Temperature",
+    "Child": "Fire hazard (check for flammable materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Inlet-flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Inlet-pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Inlet-process-materials-concentration",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Inlet-temperature",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Name",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Outlet-flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Outlet-pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Outlet-process-materials-concentration",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Outlet-temperature",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Process-materials",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Unit-pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Unit-process-materials-concentration",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Inherited Attributes",
+    "Child": "Unit-temperature",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Low Level, Low Pressure",
+    "Child": "Leak in the tank (check for corrosive process materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Low Level, Low Pressure",
+    "Child": "Loss of containment (check for flammable, toxic process materials for hazards)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "Ci = f(Ci-in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "Ci-out = f(Ci)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "L = f(Qin, Qout)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "P = f(L, T, Pin)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "Pout = f(P)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "Qout = f(L, P)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "T = f(Tin)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Propagation Method",
+    "Child": "Tout = f(T)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Tank Attribute",
+    "Child": "Level",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Zero Level",
+    "Child": "Loss of containment (check for flammable, toxic process materials for hazards)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "HAZOP Tank",
+    "Parent": "Zero Level",
+    "Child": "Tank rupture or breakage (check for corrosive process materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Class Definition",
+    "Child": "Heat Exchanger Attributes",
+    "Grandchild": "Shell-side-inlet-concn, Shell-side-inlet-flow, Shell-side-inlet-pressure, Shell-side-inlet-temp, Shell-side-outlet-concn, Shell-side-outlet-flow, Shell-side-outlet-press, Shell-side-outlet-temp, Shell-side-process-matis"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Class Definition",
+    "Child": "Inherited Attributes",
+    "Grandchild": "Inlet-flow, Inlet-pressure, Inlet-process-materials-concentration, Inlet-temperature, Name, Outlet-flow, Outlet-pressure, Outlet-process-materials-concentration, Outlet-temperature, Process-materials, Tube-side-inlet-concn, Tube-side-inlet-flow, Tube-side-inlet-pressure, Tube-side-inlet-temp, Tube-side-outlet-concn, Tube-side-outlet-flow, Tube-side-outlet-press, Tube-side-outlet-temp, Tube-side-process-matis, Unit-pressure, Unit-process-materials-concentration, Unit-temperature"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Class Definition",
+    "Child": "Superior Class: tube-hex",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-cause Method",
+    "Child": "High Qc.out",
+    "Grandchild": "mixing of tube side process materials with shell side process materials, tube leak (corrosive materials)"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-cause Method",
+    "Child": "High Tc.out",
+    "Grandchild": "external fire, tube leak"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-cause Method",
+    "Child": "High Th.out",
+    "Grandchild": "check process material properties (fire hazard), tube fouling, external leak"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-cause Method",
+    "Child": "Low Qc.out",
+    "Grandchild": "leak in shell side (corrosive materials)"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-cause Method",
+    "Child": "Low Qh.out",
+    "Grandchild": "mixing of tube side process materials with shell side process materials, tube leak, fouling, partial blockage"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-cause Method",
+    "Child": "Low Th.out",
+    "Grandchild": "tube fouling"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-consequence Method",
+    "Child": "High Qc.out",
+    "Grandchild": "mixing of tube side process materials with shell side process materials, tube leak (corrosive materials)"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-consequence Method",
+    "Child": "High Th.out",
+    "Grandchild": "check process material properties (fire hazard), tube fouling, external leak"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-consequence Method",
+    "Child": "Low Qc.out; Pc.out",
+    "Grandchild": "check properties (flammable/toxic materials); leak of flammable or toxic materials from shell side"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Find-consequence Method",
+    "Child": "Low Qh.out",
+    "Grandchild": "mixing of tube side process materials with shell side process materials, tube leak, fouling, partial blockage"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger",
+    "Child": "Class Definition",
+    "Grandchild": "Heat Exchanger Attributes, Inherited Attributes, Inherited Attributes:, Inherited attributes, Pipe Attribute: Flow, Settling Tank Attributes, Superior Class: bpu-with-one-inlet-one-outlet, Superior Class: tube-hex, Superior class: basic-process-unit, Superior class: bpu-with-one-inlet, Tank Attribute"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger",
+    "Child": "Find-cause Method",
+    "Grandchild": "High Qc.out, High Tc.out, High Th.out, Low Qc.out, Low Qh.out, Low Th.out"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger",
+    "Child": "Find-consequence Method",
+    "Grandchild": "High Qc.out, High Th.out, Low Qc.out; Pc.out, Low Qh.out"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger",
+    "Child": "Propagation Method",
+    "Grandchild": "(C_i,out) = f(C_i,in), (P = f(T)), (P_out) = f(P_in), (Q_out) = f(Q_in), (T_out) = f(T_in), Ci = f(Ci-in), Ci-out = f(Ci), Ci-out1 = f(Ci), Ci-out2 = f(Ci), Ci.c.out = f(Ci.c.in), Ci.h.out = f(Ci.h.in), Flow: L = f(Qin, - Qout1, - Qout2), L = f(Qin, Qout), P = f(L, T, Pin), P = f(Q, T), Pc.out = f(Pc.in), Ph.out = f(Ph.in), Pout = f(P), Pout1 = f(P), Pout2 = f(P), Pressure: P = f(L, T, Pin), Qc.out = f(Qc.in), Qh.out = f(Qh.in), Qout = f(L, P), Qout1 = f(L, P), Qout2 = f(L, P), T = f(Tin), Tc.out = f(Qh.in, -Qc.in, Th.in, Te.in), Temperature: T = f(Tin), Th.out = f(Qh.in, -Qc.in, Th.in, Te.in), Tout = f(T), Tout1 = f(T), Tout2 = f(T)"
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-inlet-concn",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-inlet-flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-inlet-pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-inlet-temp",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-outlet-concn",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-outlet-flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-outlet-press",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-outlet-temp",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Heat Exchanger Attributes",
+    "Child": "Shell-side-process-matis",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "High Qc.out",
+    "Child": "mixing of tube side process materials with shell side process materials",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "High Qc.out",
+    "Child": "tube leak (corrosive materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "High Tc.out",
+    "Child": "external fire, tube leak",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "High Th.out",
+    "Child": "check process material properties (fire hazard)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "High Th.out",
+    "Child": "tube fouling, external leak",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-inlet-concn",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-inlet-flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-inlet-pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-inlet-temp",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-outlet-concn",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-outlet-flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-outlet-press",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-outlet-temp",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Inherited Attributes",
+    "Child": "Tube-side-process-matis",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Low Qc.out",
+    "Child": "leak in shell side (corrosive materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Low Qc.out; Pc.out",
+    "Child": "check properties (flammable/toxic materials); leak of flammable or toxic materials from shell side",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Low Qh.out",
+    "Child": "mixing of tube side process materials with shell side process materials",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Low Qh.out",
+    "Child": "tube leak, fouling, partial blockage",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Low Th.out",
+    "Child": "tube fouling",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Ci.c.out = f(Ci.c.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Ci.h.out = f(Ci.h.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "P = f(Q, T)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Pc.out = f(Pc.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Ph.out = f(Ph.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Qc.out = f(Qc.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Qh.out = f(Qh.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Tc.out = f(Qh.in, -Qc.in, Th.in, Te.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Heat Exchanger",
+    "Parent": "Propagation Method",
+    "Child": "Th.out = f(Qh.in, -Qc.in, Th.in, Te.in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Class Definition",
+    "Child": "Inherited Attributes:",
+    "Grandchild": "Concentration of Process Materials, Name, Pressure, Process Materials, Temperature"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Class Definition",
+    "Child": "Pipe Attribute: Flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Class Definition",
+    "Child": "Superior class: basic-process-unit",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Cause Method",
+    "Child": "High Pressure",
+    "Grandchild": "Blockage (check for solid materials), Check process material properties (leak of toxic/flammable materials)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Cause Method",
+    "Child": "High Temperature",
+    "Grandchild": "Check process material properties (fire hazard due to flammable materials), External heat source (fire, lagging loss), Fire hazard (check for flammable materials)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Cause Method",
+    "Child": "Low Flow",
+    "Grandchild": "Leak, Partial blockage (check for corrosion, solid materials)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Cause Method",
+    "Child": "Low Pressure",
+    "Grandchild": "Leak (check for corrosion)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Cause Method",
+    "Child": "Low Temperature",
+    "Grandchild": "Check process material properties (potential freeze-up, leakage), Cold weather, external heat sink (lagging loss)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Cause Method",
+    "Child": "No Flow",
+    "Grandchild": "Complete blockage (check for corrosion, solid materials), Fracture, leak"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Consequence Method",
+    "Child": "High Pressure",
+    "Grandchild": "Blockage (check for solid materials), Check process material properties (leak of toxic/flammable materials)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Consequence Method",
+    "Child": "High Temperature",
+    "Grandchild": "Check process material properties (fire hazard due to flammable materials), External heat source (fire, lagging loss), Fire hazard (check for flammable materials)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Consequence Method",
+    "Child": "Low Flow or No Flow / Low Pressure",
+    "Grandchild": "Check process material properties (leak of toxic/flammable materials)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Find-Consequence Method",
+    "Child": "Low Temperature",
+    "Grandchild": "Check process material properties (potential freeze-up, leakage), Cold weather, external heat sink (lagging loss)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "High Pressure",
+    "Child": "Blockage (check for solid materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "High Pressure",
+    "Child": "Check process material properties (leak of toxic/flammable materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "High Temperature",
+    "Child": "Check process material properties (fire hazard due to flammable materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "High Temperature",
+    "Child": "External heat source (fire, lagging loss)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Inherited Attributes:",
+    "Child": "Concentration of Process Materials",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Inherited Attributes:",
+    "Child": "Name",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Inherited Attributes:",
+    "Child": "Pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Inherited Attributes:",
+    "Child": "Process Materials",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Inherited Attributes:",
+    "Child": "Temperature",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Low Flow",
+    "Child": "Leak",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Low Flow",
+    "Child": "Partial blockage (check for corrosion, solid materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Low Flow or No Flow / Low Pressure",
+    "Child": "Check process material properties (leak of toxic/flammable materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Low Pressure",
+    "Child": "Leak (check for corrosion)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Low Temperature",
+    "Child": "Check process material properties (potential freeze-up, leakage)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Low Temperature",
+    "Child": "Cold weather, external heat sink (lagging loss)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "No Flow",
+    "Child": "Complete blockage (check for corrosion, solid materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "No Flow",
+    "Child": "Fracture, leak",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Pipe",
+    "Child": "Class Definition",
+    "Grandchild": "Heat Exchanger Attributes, Inherited Attributes, Inherited Attributes:, Inherited attributes, Pipe Attribute: Flow, Settling Tank Attributes, Superior Class: bpu-with-one-inlet-one-outlet, Superior Class: tube-hex, Superior class: basic-process-unit, Superior class: bpu-with-one-inlet, Tank Attribute"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Pipe",
+    "Child": "Find-Cause Method",
+    "Grandchild": "High Level, High Pressure, High Pressure, High Temperature, High concentration of impurity in outlet, Low Flow, Low Level, Low Pressure, Low Pressure, Low Temperature, No Flow, Zero Level"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Pipe",
+    "Child": "Find-Consequence Method",
+    "Grandchild": "High Level, High Pressure, High Pressure, High Temperature, Low Flow or No Flow / Low Pressure, Low Level, Low Pressure, Low Temperature, Zero Level"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Pipe",
+    "Child": "Propagation Method",
+    "Grandchild": "(C_i,out) = f(C_i,in), (P = f(T)), (P_out) = f(P_in), (Q_out) = f(Q_in), (T_out) = f(T_in), Ci = f(Ci-in), Ci-out = f(Ci), Ci-out1 = f(Ci), Ci-out2 = f(Ci), Ci.c.out = f(Ci.c.in), Ci.h.out = f(Ci.h.in), Flow: L = f(Qin, - Qout1, - Qout2), L = f(Qin, Qout), P = f(L, T, Pin), P = f(Q, T), Pc.out = f(Pc.in), Ph.out = f(Ph.in), Pout = f(P), Pout1 = f(P), Pout2 = f(P), Pressure: P = f(L, T, Pin), Qc.out = f(Qc.in), Qh.out = f(Qh.in), Qout = f(L, P), Qout1 = f(L, P), Qout2 = f(L, P), T = f(Tin), Tc.out = f(Qh.in, -Qc.in, Th.in, Te.in), Temperature: T = f(Tin), Th.out = f(Qh.in, -Qc.in, Th.in, Te.in), Tout = f(T), Tout1 = f(T), Tout2 = f(T)"
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Propagation Method",
+    "Child": "(C_i,out) = f(C_i,in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Propagation Method",
+    "Child": "(P = f(T))",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Propagation Method",
+    "Child": "(P_out) = f(P_in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Propagation Method",
+    "Child": "(Q_out) = f(Q_in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Pipe",
+    "Parent": "Propagation Method",
+    "Child": "(T_out) = f(T_in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET",
+    "Child": "BPU-WITH-ONE-INLET-ONE-OUTLET",
+    "Grandchild": "COMPRESSOR, HYDROTREATOR, PUMP, SURGE-TANK, VALVE"
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET",
+    "Child": "LIO-KNOCKOFF-DRUM",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET",
+    "Child": "SKIN4-ST-TANK",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET",
+    "Child": "STR-OVHO-ACCUM",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET",
+    "Child": "SURGE-DRUM",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET-ONE-OUTLET",
+    "Child": "COMPRESSOR",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET-ONE-OUTLET",
+    "Child": "HYDROTREATOR",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET-ONE-OUTLET",
+    "Child": "PUMP",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET-ONE-OUTLET",
+    "Child": "SURGE-TANK",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "BPU-WITH-ONE-INLET-ONE-OUTLET",
+    "Child": "VALVE",
+    "Grandchild": "F-C-VALVE, NR-VALVE"
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Basic Process Unit",
+    "Child": "BPU-WITH-ONE-INLET",
+    "Grandchild": "BPU-WITH-ONE-INLET-ONE-OUTLET, LIO-KNOCKOFF-DRUM, SKIN4-ST-TANK, STR-OVHO-ACCUM, SURGE-DRUM"
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Basic Process Unit",
+    "Child": "SEPARATOR",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Basic Process Unit",
+    "Child": "SETTLING-TANK",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Basic Process Unit",
+    "Child": "STRIPPER",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Process Units",
+    "Child": "Basic Process Unit",
+    "Grandchild": "BPU-WITH-ONE-INLET, SEPARATOR, SETTLING-TANK, STRIPPER"
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Process Units",
+    "Child": "Tube-HEX",
+    "Grandchild": "FAN-CONDENSER, HEATER, SHELL-TUBE-HEX"
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "SHELL-TUBE-HEX",
+    "Child": "CONDENSER",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "SHELL-TUBE-HEX",
+    "Child": "HEAT-EXCH",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "SHELL-TUBE-HEX",
+    "Child": "REBOILER",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Tube-HEX",
+    "Child": "FAN-CONDENSER",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Tube-HEX",
+    "Child": "HEATER",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "Tube-HEX",
+    "Child": "SHELL-TUBE-HEX",
+    "Grandchild": "CONDENSER, HEAT-EXCH, REBOILER"
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "VALVE",
+    "Child": "F-C-VALVE",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Process Units",
+    "Parent": "VALVE",
+    "Child": "NR-VALVE",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Class Definition",
+    "Child": "Inherited attributes",
+    "Grandchild": "Concentration of process materials (tank and inlet), Name, Pressure, Process materials, Temperature"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Class Definition",
+    "Child": "Settling Tank Attributes",
+    "Grandchild": "Concentration of process materials at tank outlets, Flow, Level, Pressure, Temperature"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Class Definition",
+    "Child": "Superior class: bpu-with-one-inlet",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Cause Method",
+    "Child": "High Level, High Pressure",
+    "Grandchild": "Blockage of outlet pipe (check for solid process materials accumulation), Blockage of outlet pipes (check for solid process materials accumulation), Incomplete separation of impurity, Tank overflow, Tank overflow, leak (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Cause Method",
+    "Child": "High concentration of impurity in outlet",
+    "Grandchild": "Incomplete settling of process impurity"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Cause Method",
+    "Child": "Low Level, Low Pressure",
+    "Grandchild": "Leak in tank (check for corrosive process materials), Leak in the tank (check for corrosive process materials), Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Cause Method",
+    "Child": "Zero Level",
+    "Grandchild": "Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards), Tank rupture or breakage (check for corrosive process materials)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Consequence Method",
+    "Child": "High Level, High Pressure",
+    "Grandchild": "Blockage of outlet pipe (check for solid process materials accumulation), Blockage of outlet pipes (check for solid process materials accumulation), Incomplete separation of impurity, Tank overflow, Tank overflow, leak (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Consequence Method",
+    "Child": "High Temperature",
+    "Grandchild": "Check process material properties (fire hazard due to flammable materials), External heat source (fire, lagging loss), Fire hazard (check for flammable materials)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Consequence Method",
+    "Child": "Low Level, Low Pressure",
+    "Grandchild": "Leak in tank (check for corrosive process materials), Leak in the tank (check for corrosive process materials), Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Find-Consequence Method",
+    "Child": "Zero Level",
+    "Grandchild": "Loss of containment (check for flammable, toxic materials), Loss of containment (check for flammable, toxic process materials for hazards), Tank rupture or breakage (check for corrosive process materials)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "High Level, High Pressure",
+    "Child": "Blockage of outlet pipes (check for solid process materials accumulation)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "High Level, High Pressure",
+    "Child": "Incomplete separation of impurity",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "High Level, High Pressure",
+    "Child": "Tank overflow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "High Temperature",
+    "Child": "Fire hazard (check for flammable materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "High concentration of impurity in outlet",
+    "Child": "Incomplete settling of process impurity",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Inherited attributes",
+    "Child": "Concentration of process materials (tank and inlet)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Inherited attributes",
+    "Child": "Name",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Inherited attributes",
+    "Child": "Pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Inherited attributes",
+    "Child": "Process materials",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Inherited attributes",
+    "Child": "Temperature",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Low Level, Low Pressure",
+    "Child": "Leak in tank (check for corrosive process materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Low Level, Low Pressure",
+    "Child": "Loss of containment (check for flammable, toxic materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Ci = f(Ci-in)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Ci-out1 = f(Ci)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Ci-out2 = f(Ci)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Flow: L = f(Qin, - Qout1, - Qout2)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Pout1 = f(P)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Pout2 = f(P)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Pressure: P = f(L, T, Pin)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Qout1 = f(L, P)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Qout2 = f(L, P)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Temperature: T = f(Tin)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Tout1 = f(T)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Propagation Method",
+    "Child": "Tout2 = f(T)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank Attributes",
+    "Child": "Concentration of process materials at tank outlets",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank Attributes",
+    "Child": "Flow",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank Attributes",
+    "Child": "Level",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank Attributes",
+    "Child": "Pressure",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank Attributes",
+    "Child": "Temperature",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank HAZOP Model",
+    "Child": "Class Definition",
+    "Grandchild": "Heat Exchanger Attributes, Inherited Attributes, Inherited Attributes:, Inherited attributes, Pipe Attribute: Flow, Settling Tank Attributes, Superior Class: bpu-with-one-inlet-one-outlet, Superior Class: tube-hex, Superior class: basic-process-unit, Superior class: bpu-with-one-inlet, Tank Attribute"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank HAZOP Model",
+    "Child": "Find-Cause Method",
+    "Grandchild": "High Level, High Pressure, High Pressure, High Temperature, High concentration of impurity in outlet, Low Flow, Low Level, Low Pressure, Low Pressure, Low Temperature, No Flow, Zero Level"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank HAZOP Model",
+    "Child": "Find-Consequence Method",
+    "Grandchild": "High Level, High Pressure, High Pressure, High Temperature, Low Flow or No Flow / Low Pressure, Low Level, Low Pressure, Low Temperature, Zero Level"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Settling Tank HAZOP Model",
+    "Child": "Propagation Method",
+    "Grandchild": "(C_i,out) = f(C_i,in), (P = f(T)), (P_out) = f(P_in), (Q_out) = f(Q_in), (T_out) = f(T_in), Ci = f(Ci-in), Ci-out = f(Ci), Ci-out1 = f(Ci), Ci-out2 = f(Ci), Ci.c.out = f(Ci.c.in), Ci.h.out = f(Ci.h.in), Flow: L = f(Qin, - Qout1, - Qout2), L = f(Qin, Qout), P = f(L, T, Pin), P = f(Q, T), Pc.out = f(Pc.in), Ph.out = f(Ph.in), Pout = f(P), Pout1 = f(P), Pout2 = f(P), Pressure: P = f(L, T, Pin), Qc.out = f(Qc.in), Qh.out = f(Qh.in), Qout = f(L, P), Qout1 = f(L, P), Qout2 = f(L, P), T = f(Tin), Tc.out = f(Qh.in, -Qc.in, Th.in, Te.in), Temperature: T = f(Tin), Th.out = f(Qh.in, -Qc.in, Th.in, Te.in), Tout = f(T), Tout1 = f(T), Tout2 = f(T)"
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Zero Level",
+    "Child": "Loss of containment (check for flammable, toxic materials)",
+    "Grandchild": NaN
+  },
+  {
+    "Mindmap Source": "Settling Tank HAZOP",
+    "Parent": "Zero Level",
+    "Child": "Tank rupture or breakage (check for corrosive process materials)",
+    "Grandchild": NaN
+  }
+]
